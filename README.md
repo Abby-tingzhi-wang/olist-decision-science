@@ -1,4 +1,6 @@
 # 📦 Olist Decision Science — Supplier Profit Optimisation
+<img width="853" height="422" alt="Screenshot 2025-05-18 at 6 48 47 PM" src="https://github.com/user-attachments/assets/6a0dfacb-d372-4409-90f4-be8c5e5b8018" />
+<img width="1425" height="761" alt="Screenshot 2025-05-19 at 9 47 54 AM" src="https://github.com/user-attachments/assets/541626dd-0831-41fc-97f6-c2da294e147d" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -150,7 +152,7 @@ The simulation identified **855 as the optimal removal threshold** — the point
 
 The full analysis was packaged as an executive presentation delivered to a simulated CEO stakeholder — translating technical findings into a clear business recommendation.
 
-[![View Live Slides](https://img.shields.io/badge/▶%20View%20Live%20Slides-CEO%20Presentation-blueviolet?style=for-the-badge)](https://abby-tingzhi-wang.github.io/olist-decision-science/CEO_request_slides.html)
+[![View Live Slides](https://img.shields.io/badge/▶%20View%20Live%20Slides-CEO%20Presentation-blueviolet?style=for-the-badge)](file:///Users/abbyw/Desktop/%E5%B7%A5%E4%BD%9C/%E9%A1%B9%E7%9B%AE/Lewagon_CEO%20request/CEO_request.slides.html#/)
 
 The presentation covers:
 - Business context and revenue model
