@@ -152,7 +152,7 @@ The simulation identified **855 as the optimal removal threshold** — the point
 
 The full analysis was packaged as an executive presentation delivered to a simulated CEO stakeholder — translating technical findings into a clear business recommendation.
 
-[![View Live Slides](https://img.shields.io/badge/▶%20View%20Live%20Slides-CEO%20Presentation-blueviolet?style=for-the-badge)](https://abby-tingzhi-wang.github.io/olist-decision-science/CEO_request_slides.html)
+[![View Live Slides](https://img.shields.io/badge/▶%20View%20Live%20Slides-CEO%20Presentation-blueviolet?style=for-the-badge)](https://abby-tingzhi-wang.github.io/olist-decision-science/CEO_request.slides.html)
 
 The presentation covers:
 - Business context and revenue model
